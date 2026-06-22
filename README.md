@@ -212,6 +212,6 @@ These are demo fakes; do **not** carry them into production:
 - **Images:** none — the dark login panel uses CSS radial gradients only.
 
 ## Files
-- `portal.html` — the complete single-file prototype: all screens, styles (one `:root`
+- `index.html` — the complete single-file prototype: all screens, styles (one `:root`
   token block + component CSS), and behavior. Search by `#screen-*` ids and the
   `/* ─── … ─── */` section comments to navigate.
