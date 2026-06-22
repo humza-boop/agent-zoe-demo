@@ -143,7 +143,7 @@ Prototype state (replace with real models/stores):
   model** in the product docs.
 
 ## Design Tokens
-All defined in `:root` in `portal.html`. Exact values:
+All defined in `:root` in `index.html`. Exact values:
 
 **Color**
 | Token | Value | Use |
@@ -207,7 +207,7 @@ These are demo fakes; do **not** carry them into production:
 
 ## Assets
 - **Fonts:** Inter (400/500/600) and Fraunces (300/400/500) via Google Fonts — see the
-  `<link>` in `portal.html`. Production should self-host or use the codebase's font setup.
+  `<link>` in `index.html`. Production should self-host or use the codebase's font setup.
 - **Icons:** all inline SVG (no icon library, no raster images).
 - **Images:** none — the dark login panel uses CSS radial gradients only.
 
