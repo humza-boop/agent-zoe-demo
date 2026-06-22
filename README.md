@@ -13,7 +13,7 @@ The product's promise is that the client always knows **where they are**, **what
 next**, and **what happens next** — design decisions throughout serve those three questions.
 
 ## About the design files
-The single file in this bundle — `portal.html` — is a **design reference created in
+The single file in this bundle — `index.html` — is a **design reference created in
 HTML/CSS/vanilla JS**. It is a prototype demonstrating intended look, layout, copy, and
 interaction — **not production code to ship**. The task is to **recreate these designs in
 the target codebase's environment** (e.g. React/Next, Vue, etc.) using its established
